@@ -1,4 +1,4 @@
-[Link is Here] {https://jobstofinish.surge.sh/}
+[Link is Here] {jobstofinish.surge.sh}
 
 # Getting Started with Create React App
 
